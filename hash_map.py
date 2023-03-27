@@ -1,8 +1,5 @@
 # Name: Amir Najafi
-# OSU Email: najafiam@oregonstate.edu
 # Course: CS261 - Data Structures
-# Assignment: 7 Hash Map
-# Due Date: 12/3/2021
 # Description: Implement the Hash Map class. Will have put, get, remove, contains keys, clear, empty buckets,
 # resize table, table load and get keys methods.
 
