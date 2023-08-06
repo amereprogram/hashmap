@@ -4,3 +4,4 @@ Methods include returning number of empty buckets, load factor, clear contents, 
 Purposely avoided Python built in methods for practice reasons. 
 
 # GIF of sample outputs
+![](https://github.com/amereprogram/hashmap/blob/master/hashmapGif.gif)
